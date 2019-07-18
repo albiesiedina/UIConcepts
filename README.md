@@ -1,8 +1,8 @@
 # UI designs
-Here are some mock-ups for projects I'm working on now.
+Here are some mock-ups for projects I'm working on now. Here is [link](https://dribbble.com/biesiedina) to my dribbble
 
 # What I use?
-Currently, for my projects I'm using Photoshop, Sketch, Figma.
+Currently, for my projects I'm using Photoshop, Sketch, Figma Adobe XD.
 
 # Mobile Event App
 Application for hosting and check-in for events.
