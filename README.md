@@ -8,18 +8,24 @@ Currently, for my projects I'm using Photoshop, Sketch, Figma Adobe XD.
 Application for hosting and check-in for events.
 
 <p align="center">
-  <img src="https://github.com/albiesiedina/UIConcepts/blob/master/Event.jpg">
+  <img src="https://github.com/albiesiedina/UIConcepts/blob/master/eventer.png">
 </p>
 
 # Recipe App
 Application for storaging diiferent recipes.
 <p align="center">
-  <img src="https://github.com/albiesiedina/UIConcepts/blob/master/recipe.jpg">
+  <img src="https://github.com/albiesiedina/UIConcepts/blob/master/recipe.png">
 </p>
 
-# Monile Audiobook App
+# Mobile Audiobook App
 Simple application for listening of audiobooks. Screen represents just some of the app functionality. 
 
 <p align="center">
-  <img src="https://github.com/albiesiedina/UIConcepts/blob/master/audiobook.jpg">
+  <img src="https://github.com/albiesiedina/UIConcepts/blob/master/audiobook.png">
+</p>
+
+# Mobile Wishlist App
+App for creating and sharing lists of presents.
+<p align="center">
+  <img src="https://github.com/albiesiedina/UIConcepts/blob/master/wishlist.png">
 </p>
