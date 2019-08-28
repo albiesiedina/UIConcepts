@@ -29,3 +29,8 @@ App for creating and sharing lists of presents.
 <p align="center">
   <img src="https://github.com/albiesiedina/UIConcepts/blob/master/wishlist.png">
 </p>
+
+# Design of the website
+<p align="center">
+  <img src="https://github.com/albiesiedina/UIConcepts/blob/master/Web design.png">
+</p>
